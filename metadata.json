@@ -1,17 +1,14 @@
 {
-  "name": "ECON",
+  "name": "Econ",
   "symbol": "ECON",
-  "description": "A multi-asset crypto index that tracks major markets and volatility.",
-  "image": "https://raw.githubusercontent.com/ssnowzn1-ctrl/Econ-assets/6021886e69ca42ef047652f641b659cacb56f56e/econ.png",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/ssnowzn1-ctrl/Econ-assets/6021886e69ca42ef047652f641b659cacb56f56e/econ.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "description": "Econ is a multi-asset index token on Solana that tracks a basket of global equities and macro signals.",
+  "image": "https://raw.githubusercontent.com/ssnowzn1-ctrl/Econ-assets/main/econ.png",
+  "uri": "https://raw.githubusercontent.com/ssnowzn1-ctrl/Econ-assets/main/metadata.json",
+  "attributes": [
+    { "trait_type": "Category", "value": "Index Token" },
+    { "trait_type": "Model", "value": "Multi-Asset Weighted" },
+    { "trait_type": "Network", "value": "Solana" }
+  ]
 }
+
 
